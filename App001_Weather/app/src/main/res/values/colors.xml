@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="back_ground">#3F51B5</color>
+    <color name="city_filed_text">#FFFFFF</color>
+    <color name="updated_field_text">#FFFFFF</color>
+    <color name="weather_icon_text">#FFFFFF</color>
+    <color name="current_temperature_field_text">#FFFFFF</color>
+    <color name="details_field_text">#FFFFFF</color>
+    <color name="humidity_field_text">#FFFFFF</color>
+    <color name="pressure_field_text">#FFFFFF</color>
 </resources>

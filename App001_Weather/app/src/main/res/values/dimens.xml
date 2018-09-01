@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="updated_field_text">13sp</dimen>
+    <dimen name="weather_icon_text">90sp</dimen>
+    <dimen name="current_temperature_field_text">50sp</dimen>
+</resources>
